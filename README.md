@@ -9,8 +9,8 @@ Power BI: Utilized for building the dashboard and data visualization.
 Power Query: Used for data transformation and preparation.
 PowerPoint: Used for creating the project presentation.
 
-## Dashboard Preview
-![Superstore Sales Dashboard](823642.png)
+## Dashboard PrevieW
+![Superstore Sales Dashboard](dashboard-preview.png)
 
 ## Project Description
 This Superstore Sales Dashboard offers a comprehensive analysis of business performance, focusing on sales, profitability, and customer engagement. The dashboard serves as a key tool for data-driven decision-making.
