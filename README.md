@@ -5,7 +5,7 @@ This repository contains a comprehensive Superstore Sales Dashboard designed to 
 This dashboard was created to visualize key business metrics, enabling data-driven decision-making. By leveraging historical sales data, this report tracks trends across various products, segments, and geographic regions.
 
 ## Tools Used
-##### Power BI: Utilized for building the dashboard and data visualization.
+#### Power BI: Utilized for building the dashboard and data visualization.
 #### Power Query: Used for data transformation and preparation.
 #### PowerPoint: Used for creating the project presentation.
 
