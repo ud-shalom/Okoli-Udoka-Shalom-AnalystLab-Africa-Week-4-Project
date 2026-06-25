@@ -1,16 +1,17 @@
-### Superstore Sales Dashboard
+# Superstore Sales Dashboard
 This repository contains a comprehensive Superstore Sales Dashboard designed to provide actionable insights into sales performance, profitability, and customer behavior.
 
 ## Project Overview
 This dashboard was created to visualize key business metrics, enabling data-driven decision-making. By leveraging historical sales data, this report tracks trends across various products, segments, and geographic regions.
 
-Dashboard Preview
-Project Description
+## Dashboard Preview
+
+## Project Description
 This Superstore Sales Dashboard offers a comprehensive analysis of business performance, focusing on sales, profitability, and customer engagement. The dashboard serves as a key tool for data-driven decision-making.
 
-Key elements include:
+## Key elements include:
 
-Executive Metrics: Tracking high-level KPIs like Total Sales ($2.30M) and Profit Margin (12.47%).
+### Executive Metrics: Tracking high-level KPIs like Total Sales ($2.30M) and Profit Margin (12.47%).
 
 Performance Analysis: Identifying top products and breaking down sales by market segment.
 
