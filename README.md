@@ -42,6 +42,6 @@ Based on the analysis, several performance indicators were identified to guide s
 ## Okoli Udoka Shalom
 ## Aspiring Data Analyst | Power BI Enthusiast | Data Visualization Practitioner
 
-## PowerBI, DataAnalytics, BusinessIntelligence, DataVisualization, Dashboard, SalesAnalysis, PowerQuery, Excel, PortfolioProject
+### PowerBI, ### DataAnalytics, ### BusinessIntelligence, DataVisualization, Dashboard, SalesAnalysis, PowerQuery, Excel, PortfolioProject
 
 ### Data Source: Kaggle.com
