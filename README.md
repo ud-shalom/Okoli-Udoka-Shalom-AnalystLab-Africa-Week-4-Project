@@ -9,8 +9,8 @@ This dashboard was created to visualize key business metrics, enabling data-driv
 #### Power Query: Used for data transformation and preparation.
 #### PowerPoint: Used for creating the project presentation.
 
-## Dashboard PrevieW
-![Superstore Sales Dashboard](823642.png)
+## Dashboard Preview
+![Superstore Sales Dashboard](ANALYSTLAB%20SUPERSTORE%20DASHBOARD%20WEEK%204.png)
 
 ## Project Description
 This Superstore Sales Dashboard offers a comprehensive analysis of business performance, focusing on sales, profitability, and customer engagement. The dashboard serves as a key tool for data-driven decision-making.
