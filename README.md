@@ -28,9 +28,9 @@ This Superstore Sales Dashboard offers a comprehensive analysis of business perf
 ## Key Insights
 Based on the analysis, several performance indicators were identified to guide strategic decision-making:
 
- Segment Performance: The "Consumer" segment drives the business, contributing 46.83% of total sales.
+ #### Segment Performance: The "Consumer" segment drives the business, contributing 46.83% of total sales.
 
- Product Focus: "Phones" and "Chairs" are the top revenue generators, making them key priorities for inventory.
+ #### Product Focus: "Phones" and "Chairs" are the top revenue generators, making them key priorities for inventory.
 
  Profitability: With a 12.47% profit margin, there is a clear opportunity to optimize costs for lower-margin items.
 
